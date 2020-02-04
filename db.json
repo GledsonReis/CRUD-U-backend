@@ -1,0 +1,24 @@
+{
+  "users": [
+    {
+      "name": "Naruto Uzumaki",
+      "email": "narutodattebayo@konoha.com",
+      "id": 4
+    },
+    {
+      "name": "Sakura Haruno",
+      "email": "sasusakus2@konoha.com",
+      "id": 5
+    },
+    {
+      "name": "Sasuke Uchiha",
+      "email": "sasukekillsitachi@konoha.com",
+      "id": 6
+    },
+    {
+      "name": "Kakashi Hatake",
+      "email": "kakashisharingan171@konoha.com",
+      "id": 7
+    }
+  ]
+}
